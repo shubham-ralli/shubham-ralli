@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/shubham-ralli/shubham-ralli/blob/main/1599328562754.jpeg?raw=true)
+![MasterHead](https://github.com/shubham-ralli/shubham-ralli/blob/main/1599328562754.jpg?raw=true)
 
 <h1 align="center">Hi 👋, I'm Shubham ralli</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
